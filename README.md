@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @epinerd1
+- 👀 I’m interested in business data analytics.
+- 🌱 I’m currently sitting for the Certified Analytics Professional exam.
+- 💞️ I’m looking to collaborate on R.
+- 📫 Reach me here or Teams.
